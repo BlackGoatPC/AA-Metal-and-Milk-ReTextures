@@ -4,7 +4,7 @@
   
   The base images for these updated textures came from an old compilation by Cody Spring and Drgn! Netrve which has mostly been made obsolete by newer mods.
   
-  These specific retextures haven't been done by anyone else though, so I revived and updated this small part of the mod for my use with Alpha Animals.
+  These specific retextures haven't been done by anyone else though, so I revived and updated this small part of the mod for use with Alpha Animals.
   
   Alpha Animals mod (required, load after) : https://steamcommunity.com/sharedfiles/filedetails/?id=1541721856
   
