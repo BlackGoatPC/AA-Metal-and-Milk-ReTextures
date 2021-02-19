@@ -1,4 +1,4 @@
-# AA-Metal-and-Milk-Textures
+# AA-Metal-and-Milk-ReTextures
 
   Small custom retexture mod for Alpha Animals with a stack-size dependent Skymetal multi-graphic and improved textures for Gow Milk and Blue Milk.
   
