@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ModMetaData>
-  <name>Alpha Animals - Metal and Milk Textures</name>
+  <name>Alpha Animals - Metal and Milk ReTextures</name>
   <author>Black Goat</author>
     <packageId>bg.aammt</packageId>
   <supportedVersions>
@@ -26,6 +26,10 @@
   The base images for these updated textures came from an old compilation by Cody Spring and Drgn! Netrve which has mostly been made obsolete by newer mods.
   
   These specific retextures haven't been done by anyone else though, so I revived and updated this small part of the mod for my use with Alpha Animals.
+  
+  Also available on GitHub for non-steam users : https://github.com/BlackGoatPC/AA-Metal-and-Milk-Textures
+  
+  --------------------------------------------------------------------------------------------------------
   
   Alpha Animals mod (required, load after) : https://steamcommunity.com/sharedfiles/filedetails/?id=1541721856
   
