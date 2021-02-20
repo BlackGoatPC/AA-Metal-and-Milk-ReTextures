@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Excluded>
+    <exclude>B:\SteamLibrary\steamapps\common\RimWorld\Mods\AA Metal and Milk ReTextures\.git</exclude>
+    <exclude>B:\SteamLibrary\steamapps\common\RimWorld\Mods\AA Metal and Milk ReTextures\README.md</exclude>
+  </Excluded>
+</Configuration>
