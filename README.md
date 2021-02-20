@@ -10,7 +10,7 @@
   
   Cody Spring and Drgn! Netrve's original retexture pack : https://steamcommunity.com/sharedfiles/filedetails/?id=2032079102
   
-  Recommended complimentary texture mods: 
+  Recommended texture mods: 
   
   Automatic's High quality textures: https://steamcommunity.com/sharedfiles/filedetails/?id=1676969930
   
