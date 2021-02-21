@@ -14,7 +14,7 @@
   
   Automatic's High quality textures: https://steamcommunity.com/sharedfiles/filedetails/?id=1676969930
   
-  Cursed Crew's Vanilla Textures Expanded : https://steamcommunity.com/sharedfiles/filedetails/?id=2016436324
+  Oskar Potocki, Helixien, Erin, and ISOREX's Vanilla Textures Expanded : https://steamcommunity.com/sharedfiles/filedetails/?id=2016436324
   
   Bickly's [LTO] Texture Overhaul : https://steamcommunity.com/sharedfiles/filedetails/?id=2300663137
   
